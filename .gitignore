@@ -1,0 +1,8 @@
+
+FlaskProjectGitHub/.idea/vcs.xml
+FlaskProjectGitHub/.idea/FlaskProjectGitHub.iml
+FlaskProjectGitHub/.idea/misc.xml
+FlaskProjectGitHub/src/__pycache__/__init__.cpython-39.pyc
+FlaskProjectGitHub/src/apis/__pycache__/__init__.cpython-39.pyc
+*.pyc
+*.xml
